@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\rutasB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C037968B-3768-4B81-8DDF-AC19E1757AEC}|rutasB\\rutasB.csproj|c:\\rutasb\\rutasb\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C037968B-3768-4B81-8DDF-AC19E1757AEC}|rutasB\\rutasB.csproj|solutionrelative:rutasb\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037968B-3768-4B81-8DDF-AC19E1757AEC}|rutasB\\rutasB.csproj|c:\\rutasb\\rutasb\\models\\routeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C037968B-3768-4B81-8DDF-AC19E1757AEC}|rutasB\\rutasB.csproj|solutionrelative:rutasb\\models\\routeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037968B-3768-4B81-8DDF-AC19E1757AEC}|rutasB\\rutasB.csproj|c:\\rutasb\\rutasb\\models\\routerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C037968B-3768-4B81-8DDF-AC19E1757AEC}|rutasB\\rutasB.csproj|solutionrelative:rutasb\\models\\routerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037968B-3768-4B81-8DDF-AC19E1757AEC}|rutasB\\rutasB.csproj|c:\\rutasb\\rutasb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C037968B-3768-4B81-8DDF-AC19E1757AEC}|rutasB\\rutasB.csproj|solutionrelative:rutasb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037968B-3768-4B81-8DDF-AC19E1757AEC}|rutasB\\rutasB.csproj|c:\\rutasb\\rutasb\\services\\osrmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C037968B-3768-4B81-8DDF-AC19E1757AEC}|rutasB\\rutasB.csproj|solutionrelative:rutasb\\services\\osrmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C037968B-3768-4B81-8DDF-AC19E1757AEC}|rutasB\\rutasB.csproj|c:\\rutasb\\rutasb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C037968B-3768-4B81-8DDF-AC19E1757AEC}|rutasB\\rutasB.csproj|solutionrelative:rutasb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0672c6e1-9edf-3be9-8226-f0823640821e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\rutasB\\rutasB\\appsettings.json",
+              "RelativeDocumentMoniker": "rutasB\\appsettings.json",
+              "ToolTip": "C:\\rutasB\\rutasB\\appsettings.json",
+              "RelativeToolTip": "rutasB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T09:08:30.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\rutasB\\rutasB\\Program.cs",
+              "RelativeDocumentMoniker": "rutasB\\Program.cs",
+              "ToolTip": "C:\\rutasB\\rutasB\\Program.cs",
+              "RelativeToolTip": "rutasB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:08:09.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoutesController.cs",
+              "DocumentMoniker": "C:\\rutasB\\rutasB\\Controllers\\RoutesController.cs",
+              "RelativeDocumentMoniker": "rutasB\\Controllers\\RoutesController.cs",
+              "ToolTip": "C:\\rutasB\\rutasB\\Controllers\\RoutesController.cs",
+              "RelativeToolTip": "rutasB\\Controllers\\RoutesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:06:42.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OsrmService.cs",
+              "DocumentMoniker": "C:\\rutasB\\rutasB\\Services\\OsrmService.cs",
+              "RelativeDocumentMoniker": "rutasB\\Services\\OsrmService.cs",
+              "ToolTip": "C:\\rutasB\\rutasB\\Services\\OsrmService.cs",
+              "RelativeToolTip": "rutasB\\Services\\OsrmService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:05:09.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteResponse.cs",
+              "DocumentMoniker": "C:\\rutasB\\rutasB\\Models\\RouteResponse.cs",
+              "RelativeDocumentMoniker": "rutasB\\Models\\RouteResponse.cs",
+              "ToolTip": "C:\\rutasB\\rutasB\\Models\\RouteResponse.cs",
+              "RelativeToolTip": "rutasB\\Models\\RouteResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:59:10.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteRequest.cs",
+              "DocumentMoniker": "C:\\rutasB\\rutasB\\Models\\RouteRequest.cs",
+              "RelativeDocumentMoniker": "rutasB\\Models\\RouteRequest.cs",
+              "ToolTip": "C:\\rutasB\\rutasB\\Models\\RouteRequest.cs",
+              "RelativeToolTip": "rutasB\\Models\\RouteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:58:38.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

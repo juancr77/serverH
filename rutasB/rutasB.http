@@ -1,0 +1,6 @@
+@rutasB_HostAddress = http://localhost:5241
+
+GET {{rutasB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
